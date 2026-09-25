@@ -6,7 +6,7 @@ This tool sets the **Set Copilot Hardware Key** policy that Microsoft documents 
 
 ## Use it
 
-1. Click **Code > Download ZIP** and unzip it.
+1. Download `CopilotKeySwitcher.zip` from the [latest release](https://github.com/Garrett2918/copilot-key-switcher/releases/latest) and unzip it.
 2. Double-click `CopilotKeySwitcher.cmd`.
 3. Pick an app or paste an app ID, then click **Apply** and approve the admin prompt.
 4. Sign out and back in.
